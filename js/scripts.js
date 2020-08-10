@@ -11,5 +11,4 @@ $("p").click(function() {
 $("img").click(function() {
   alert("This is an image.");
 });
-
 });
